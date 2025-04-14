@@ -1,5 +1,5 @@
 ### Hello there 👋
-I'm Ken, I mostly do web development, my weapon of choice is React + Node.js + TypeScript. Recently I have been playing around with Rust, Svelte, and TailwindCSS.
+I'm Ken, I mostly do web development, my weapon of choice is React + Node.js + TypeScript. I have some experience in C#/.NET, PHP, and Java as well
 
 ### Things I use
 <p float="left">
@@ -11,13 +11,8 @@ I'm Ken, I mostly do web development, my weapon of choice is React + Node.js + T
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
   <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
-  
-  <img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/>
-  <img alt="Type-graphql" src="https://img.shields.io/badge/-TypeGraphQL-%23C04392?&style=for-the-badge"/>
 
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img alt="Svelte" src="https://img.shields.io/badge/svelte-%23f1413d.svg?&style=for-the-badge&logo=svelte&logoColor=white"/>
   <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
